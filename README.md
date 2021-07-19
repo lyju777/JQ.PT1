@@ -1,1 +1,1 @@
-# JQ.PT1
+# jquery과제
